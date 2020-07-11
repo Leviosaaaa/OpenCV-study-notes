@@ -1,11 +1,11 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Created on Sat Jul 11 15:39:59 2020
 
-@author: HB-CMCC
+@author: ZYD
 
 1.2 Video basic
-1.2.1 从相机捕获视频
+1.2.1 Video captured by camera
 """
 
 """

@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Created on Sat Jul 11 18:00:59 2020
 
-@author: HB-CMCC
+@author: ZYD
 
 1.3 openCV的绘图功能
 """
@@ -10,7 +10,7 @@ Created on Sat Jul 11 18:00:59 2020
 """
 【学习内容】
 学习使用cv.line(),cv.circle(),cv.rectangle(),cv.ellipse(),cv.putText()。
-函数参数有颜色，线的粗细，线的类型,起点，终点等。
+函数参数有颜色，线的粗细，线的类型。
 【代码内容】
 绘制指定图形
 """

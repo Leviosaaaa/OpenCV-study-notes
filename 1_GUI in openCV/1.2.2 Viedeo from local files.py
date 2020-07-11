@@ -1,11 +1,11 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Created on Sat Jul 11 16:15:00 2020
 
-@author: HB-CMCC
+@author: ZYD
 
 1.2 Video basic
-1.2.2 从文件播放视频
+1.2.2 Video from local files
 """
 
 """
