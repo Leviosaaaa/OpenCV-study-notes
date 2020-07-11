@@ -9,8 +9,8 @@ Created on Sat Jul 11 18:00:59 2020
 
 """
 【学习内容】
-学习使用cv.line(),cv.circle(),cv.rectangle(),cv.ellipse(),cv.putText。
-函数参数有颜色，线的粗细，线的类型。
+学习使用cv.line(),cv.circle(),cv.rectangle(),cv.ellipse(),cv.putText()。
+函数参数有颜色，线的粗细，线的类型,起点，终点等。
 【代码内容】
 绘制指定图形
 """
