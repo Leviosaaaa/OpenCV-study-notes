@@ -17,9 +17,17 @@ Created on Mon Jul 13 11:39:13 2020
 import numpy as np
 import cv2 as cv
 
+img1 = cv.imread('test2.jpg')
+e1 = cv.getTickCount()
+for i in range(5,49,2):
+    img1 = cv.medianBlur(img1,i)
+e2 = cv.getTickCount()
+t = (e2 - e1)/cv.getTickFrequency()
+print( t )
 
+"""
 c1 = cv.getTickCount()
 c2 = cv.getTickCount()
 time = (c1 - c2) / cv.getTickFrequency 
-
+"""
 
