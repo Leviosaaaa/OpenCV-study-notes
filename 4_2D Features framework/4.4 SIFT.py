@@ -4,7 +4,7 @@ Created on Mon Aug 10 11:33:07 2020
 
 @author: ZYD
 
-4.4 SIFT
+4.4 SIFT (Scale-Invariant Feature Transform)
 
 【学习内容】
 学习SIFT算法。
